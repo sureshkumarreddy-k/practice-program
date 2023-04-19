@@ -66,6 +66,8 @@ a=smallest
 b=total-(greatest+smallest)
 c=greatest
 print(a,b,c)
+
+
 Another method
 a=int(input("Enter value of a:"))
 b=int(input("Enter value of b:"))
